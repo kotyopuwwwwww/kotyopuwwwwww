@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.reddit.com/user/kotyopuwww">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kotyopuwwwwww?label=Reddit&logo=reddit&style=flat" />
   </a>
 </p>
