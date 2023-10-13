@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   <a href="https://github.com/kotyopuwwwwww/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="kotyopuwwwwww" />
+    <img src="https://komarev.com/ghpvc/?username=kotyopuwwwwww" alt="kotyopuwwwwww" />
   </a>
   <a href="https://github.com/kotyopuwwwwww">
     <img height="20" src="https://img.shields.io/github/followers/kotyopuwwwwww?label=follow&logo=github&style=flat" />
