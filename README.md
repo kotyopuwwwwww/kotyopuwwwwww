@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   <a href="https://github.com/kotyopuwwwwww/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="kotyopuwwwwww" />
   </a>
   <a href="https://github.com/kotyopuwwwwww">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/kotyopuwwwwww?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.reddit.com/user/kotyopuwww">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kotyopuwwwwww?label=Reddit&logo=reddit&style=flat" />
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kotyopuwww?label=Reddit&logo=reddit&style=flat" />
   </a>
 </p>
