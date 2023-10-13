@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kotyopuwwwwww
-- 👀 I’m interested in minecraft mods and plugin
+- 👀 I’m interested in minecraft mods
 - 🌱 I’m currently learning java
 - 📫 How to reach me none
 
