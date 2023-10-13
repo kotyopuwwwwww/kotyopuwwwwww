@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotyopuwwwwww&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-  <a href="https://github.com/yutkat/kotyopuwwwwww/">
+  <a href="https://github.com/kotyopuwwwwww/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
   <a href="https://github.com/kotyopuwwwwww">
