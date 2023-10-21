@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotyopuwwwwww
 - 👀 I’m interested in minecraft mods
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and html css...
 - 📫 How to reach me none
 
 <!---
