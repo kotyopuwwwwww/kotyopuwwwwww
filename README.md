@@ -1,4 +1,4 @@
-##  Talking about Personal Stuff
+- ##  Talking about Personal Stuff
 
 - 👋 Hi, I’m @kotyopuwwwwww
 - 👀 I’m interested in minecraft mods
