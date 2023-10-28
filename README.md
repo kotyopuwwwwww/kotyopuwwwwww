@@ -2,6 +2,9 @@
 - 👀 I’m interested in minecraft mods
 - 🌱 I’m currently learning java and html css...
 - 📫 How to reach me none
+ ##  My Absolute Favorites
+- 💻   I lave quiltloader
+- 🍰   cake & sweets & Japanese food
 
 <!---
 kotyopuwwwwww/kotyopuwwwwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
