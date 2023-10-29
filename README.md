@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning java and html css...
 - 📫 How to reach me none
 - ##  My Absolute Favorites
-- 💻   I lave quiltloader
+- 💻   I like quiltloader
 - 🍰   cake & sweets & Japanese food
 
 <!---
