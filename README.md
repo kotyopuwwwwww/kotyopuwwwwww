@@ -6,7 +6,7 @@
 - 📫 How to reach me none
 - ##  My Absolute Favorites
 - 💻   I like quiltloader
-- 🍰   cake & sweets & Japanese food
+- 🍰   cake,sweets & Japanese food
 
 <!---
 kotyopuwwwwww/kotyopuwwwwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
