@@ -1,5 +1,5 @@
 - ##  Talking about Personal Stuff
-- 
+  
 - 👋 Hi, I’m @kotyopuwwwwww
 - 👀 I’m interested in minecraft mods
 - 🌱 I’m currently learning java and html css...
