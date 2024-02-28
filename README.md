@@ -1,5 +1,3 @@
-![image](https://github.com/kotyopuwwwwww/kotyopuwwwwww/assets/132569525/57c4818f-2e2c-42dd-a621-edd09cc5c5b2)- ##  Talking about Personal Stuff
-  
 - 👋 Hi, I’m @kotyopuwwwwww
 - 👀 I’m interested in minecraft mods
 - 🌱 I’m currently learning java and html css...
