@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babblingkun
 - 👀 I’m interested in minecraft mods
-- 🌱 I’m currently learning java and html css...
+- 🌱 I’m currently learning Ruby and Python C++...
 - 📫 How to reach me none
 - ##  My Absolute Favorites
 - 💻   I like Quiltloader
